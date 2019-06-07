@@ -1,13 +1,12 @@
-### 101 IPFS Workshop
+### Thoughts About Contexting
 
 ![global_systems_at_hand](assets/image/global_systems_at_hand.jpg)
 
 ---
 
-### Introduction
+### Thought Experiment
 
-- Concepts
-- IPFS, ProtoSchool
+The Magic Binary Hierarchy Of Everything
 
 ---
 
