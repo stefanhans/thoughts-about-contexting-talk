@@ -4,12 +4,9 @@
 
 ---
 
-### Thought Experiment
+### The Magic Binary Hierarchy Of Everything
 
-**The Magic Binary Hierarchy Of Everything**
-
-For every question <br>"how is this represented as a binary hierarchy," <br> 
-a perfect answer is there.
+For every question <br>"how is this represented as a binary hierarchy," <br> a perfect answer is there.
 
 ---
 
