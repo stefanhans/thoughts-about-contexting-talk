@@ -20,6 +20,12 @@ For every question <br>"how is this represented as a binary hierarchy," <br> a p
 
 ---
 
+### The Magic Network Of Everything
+
+... the internet ...
+
+---
+
 ### 🙃 Switch your perspective 🙃
 
 You have defined what you want <br> to represent as a binary hierarchy  <br> and what you want to do with it.
