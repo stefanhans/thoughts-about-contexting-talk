@@ -10,6 +10,8 @@ The Magic Binary Hierarchy Of Everything
 
 ---
 
+### Ask yourself!
+
 1. How to navigate the magic hierarchy?
 
 1. What can we do with it, then?
