@@ -18,9 +18,6 @@ For every question <br>"how is this represented as a binary hierarchy," <br> a p
 
 1. What can we do with it, then?
 
-- this |
-- and that |
-
 ---
 
 ### 🙃 Switch your perspective 🙃
@@ -32,14 +29,10 @@ You have defined <br> what you want to represent as a binary hierarchy  <br> and
 
 ### Context Engineering
 
-Writing functions or mappings from anything into a binary hierarchy.
+Writing functions or mappings from anything <br> into a binary hierarchy.
 
-- separate well-known standards and create functions for it
-    - GPS, taxonomies, ...
-- describe the rest formally and create functions for it
-    - dictionaries, tags, categories, ...
-    
-Think about hash functions in comparison.
+- reuse standards, e.g., GPS, taxanomies
+- use transforming functions, e.g., from dictionaries, lists, ranges
 
 ---
 
