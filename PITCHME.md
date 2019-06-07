@@ -20,24 +20,14 @@ For every question <br>"how is this represented as a binary hierarchy," <br> a p
 
 ---
 
-Whatever one expects to find is there. 
+### 🙃 Switch your perspective 🙃
 
+You have defined what you want to represent as a binary hierarchy  <br> and what you want to do with it.
 
 
 ---
-
-### Switch your perspective!
-
 
 ![blockchain](assets/image/warpdrive.jpeg)
-
-
----
-
-<h3 align="center"> Blockchain </h3>
-
-
-![blockchain](assets/image/blockchain.jpeg)
 
 ---
 
