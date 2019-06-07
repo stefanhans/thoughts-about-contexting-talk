@@ -18,15 +18,14 @@ The Magic Binary Hierarchy Of Everything
 
 ---
 
-<h3 align="center"> Ask yourself! </h3>
+Whatever one expects to find is there. 
+For every question asking how is this represented as a binary hierarchy, 
+a perfectly answer appears immediately.
 
-1. How to navigate the magic hierarchy?
-
-1. What can we do with it, then?
 
 ---
 
-<h3 align="center"> Merkle Tree </h3>
+### Switch your perspective!
 
 
 ![merkle tree](assets/image/merkle-tree.png)
