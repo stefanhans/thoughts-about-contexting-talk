@@ -80,7 +80,7 @@ Can an AI learn to transform text into binary hierarchies?
 
 ---
 
-### 🙏 🙏 🙏 🙏 🙏 🙏 🙏
+🙏 🙏 🙏 🙏 🙏 🙏 🙏
 
 ![global_systems_at_hand](assets/image/work-for-hcs.png)
 
