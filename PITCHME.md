@@ -29,12 +29,19 @@ You have defined what you want <br> to represent as a binary hierarchy  <br> and
 
 ### Context Engineering
 
-f(everything) => navigation-path
+- separate well-known standards and create functions for it
+    - GPS, taxonomies, ...
+- describe the rest formally and create functions for it
+    - dictionaries, tags, categories, ...
+    
+Think about hash functions with meaningful structure.
 
-- standards, e.g. GPS 
-- taxonomies, e.g. languages 
-- dictionaries, e.g. tags, categories 
-- i.e. everything 
+---
+
+### Context Routing
+
+How can you combine binary hierarchies dynamically <br>
+and how can you navigate through it.  
 
 ---
 
@@ -68,5 +75,9 @@ Find what the hash of what you are searching <br> without knowing what it is.
 
 ---
 
-Conflict-free by definition
+### Context Learning
+
+Can an AI learn to transform speech into binary hierarchy?
+
+---
 
