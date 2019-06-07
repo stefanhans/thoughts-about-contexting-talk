@@ -30,7 +30,7 @@ You have defined what you want <br> to represent as a binary hierarchy  <br> and
 ### A Magic Binary Hierarchy Of Everything?
 
 
-![global_systems_at_hand](assets/image/laughing.jpeg)
+![global_systems_at_hand](assets/image/laughing.gif)
 
 
 ### Seriously?
@@ -39,7 +39,7 @@ You have defined what you want <br> to represent as a binary hierarchy  <br> and
 
 ### The Internet - Magic Network Of Everything
 
-![global_systems_at_hand](assets/image/astonished.png)
+![global_systems_at_hand](assets/image/astonished.gif)
 
 ---
 
