@@ -40,13 +40,13 @@ f(everything) => navigation-path
 
 ### Context Addressing
 
-Find what you are searching without knowing what it is.
+Find what you are searching <br> without knowing what it is.
 
 ---
 
 ### Context Indexing
 
-Find what the hash of what you are searching without knowing what it is.
+Find what the hash of what you are searching <br> without knowing what it is.
 
 ---
 
