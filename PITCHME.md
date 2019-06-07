@@ -6,7 +6,10 @@
 
 ### Thought Experiment
 
-The Magic Binary Hierarchy Of Everything
+**The Magic Binary Hierarchy Of Everything**
+
+For every question "how is this represented as a binary hierarchy," 
+a perfect answer is there.
 
 ---
 
@@ -19,8 +22,7 @@ The Magic Binary Hierarchy Of Everything
 ---
 
 Whatever one expects to find is there. 
-For every question asking how is this represented as a binary hierarchy, 
-a perfectly answer appears immediately.
+
 
 
 ---
