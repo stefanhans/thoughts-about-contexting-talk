@@ -10,6 +10,12 @@ The Magic Binary Hierarchy Of Everything
 
 ---
 
+1. How to navigate the magic hierarchy?
+
+1. What can we do with it, then?
+
+---
+
 <h3 align="center"> Distributed Hash Table </h3>
 
 ![dht](assets/image/dht.png)
