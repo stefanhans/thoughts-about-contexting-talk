@@ -29,11 +29,11 @@ You have defined <br> what you want to have represented <br> and what you want t
 
 ### Context Engineering
 
-Writing functions or mappings from anything <br> into a binary hierarchy.
+Write functions or mappings from anything <br> into a binary hierarchy.
 
 - use standards like GPS, taxonomies ...
 - transform from dictionaries, lists, ranges ...
-- discover new ground
+- discover new ground, a new subject area
 
 ---
 
