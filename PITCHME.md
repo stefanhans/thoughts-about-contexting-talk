@@ -33,6 +33,7 @@ Writing functions or mappings from anything <br> into a binary hierarchy.
 
 - use standards like GPS, taxonomies ...
 - transform from dictionaries, lists, ranges ...
+- discover new ground
 
 ---
 
