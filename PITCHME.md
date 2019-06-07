@@ -28,7 +28,8 @@ a perfectly answer appears immediately.
 ### Switch your perspective!
 
 
-![merkle tree](assets/image/merkle-tree.png)
+![blockchain](assets/image/warpdrive.jpeg)
+
 
 ---
 
