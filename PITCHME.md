@@ -37,9 +37,11 @@ You have defined what you want <br> to represent as a binary hierarchy  <br> and
 
 ---
 
-### The Internet - Magic Network Of Everything
+### A Magic Network Of Everything
 
 ![global_systems_at_hand](assets/image/astonished.gif)
+
+### The Internet
 
 ---
 
