@@ -22,7 +22,7 @@ For every question <br>"how is this represented as a binary hierarchy," <br> a p
 
 ### 🙃 Switch your perspective 🙃
 
-You have defined what you want to represent as a binary hierarchy  <br> and what you want to do with it.
+You have defined what you want <br> to represent as a binary hierarchy  <br> and what you want to do with it.
 
 
 ---
@@ -31,9 +31,7 @@ You have defined what you want to represent as a binary hierarchy  <br> and what
 
 ---
 
-<h3 align="center"> XOR-Metrics, e.g. Kademlia </h3>
-
-![kademlia](assets/image/kademlia.png)
+Conflict-free by definition
 
 ---
 
