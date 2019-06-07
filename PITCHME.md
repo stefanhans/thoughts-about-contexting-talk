@@ -39,7 +39,7 @@ Write functions or mappings from anything <br> into a binary hierarchy.
 
 ### Context Routing
 
-How can you combine binary hierarchies dynamically <br>
+How to combine binary hierarchies dynamically <br>
 and how can you navigate through it.  
 
 ---
