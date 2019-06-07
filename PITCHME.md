@@ -22,7 +22,7 @@ For every question <br>"how is this represented as a binary hierarchy," <br> a p
 
 ### 🙃 Switch your perspective 🙃
 
-You have defined <br> what you want to represent as a binary hierarchy  <br> and what you want to do with it.
+You have defined <br> what you want to have represented <br> and what you want to do with it. 
 <br> But what now?
 
 ---
