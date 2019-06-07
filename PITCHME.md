@@ -20,20 +20,23 @@ For every question <br>"how is this represented as a binary hierarchy," <br> a p
 
 ---
 
-### The Magic Network Of Everything
-
-... the internet ...
-
----
-
 ### 🙃 Switch your perspective 🙃
 
 You have defined what you want <br> to represent as a binary hierarchy  <br> and what you want to do with it.
-
+<br> But what now?
 
 ---
 
-![blockchain](assets/image/warpdrive.jpeg)
+### A Magic Binary Hierarchy Of Everything? Seriously?
+
+
+![global_systems_at_hand](assets/image/laughing.jpeg)
+
+---
+
+### The Magic Network Of Everything
+
+... the internet ...
 
 ---
 
