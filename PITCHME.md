@@ -31,8 +31,8 @@ You have defined <br> what you want to represent as a binary hierarchy  <br> and
 
 Writing functions or mappings from anything <br> into a binary hierarchy.
 
-- reuse standards, e.g., GPS, taxanomies
-- use transforming functions, e.g., from dictionaries, lists, ranges
+- reuse standards, e.g., GPS, taxonomies
+- transform, e.g., from dictionaries, lists, ranges
 
 ---
 
@@ -55,6 +55,12 @@ Find what the hash of what you are searching <br> without knowing what it is.
 
 ---
 
+### Context Learning
+
+Can an AI learn to transform text into binary hierarchies?
+
+---
+
 ### A Magic Binary Hierarchy Of Everything?
 
 
@@ -70,12 +76,6 @@ Find what the hash of what you are searching <br> without knowing what it is.
 ![global_systems_at_hand](assets/image/astonished.gif)
 
 ### The Internet
-
----
-
-### Context Learning
-
-Can an AI learn to transform speech into binary hierarchy?
 
 ---
 
