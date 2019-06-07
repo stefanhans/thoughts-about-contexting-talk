@@ -31,8 +31,8 @@ You have defined <br> what you want to represent as a binary hierarchy  <br> and
 
 Writing functions or mappings from anything <br> into a binary hierarchy.
 
-- reuse standards, e.g., GPS, taxonomies
-- transform, e.g., from dictionaries, lists, ranges
+- use standards like GPS, taxonomies ...
+- transform from dictionaries, lists, ranges ...
 
 ---
 
