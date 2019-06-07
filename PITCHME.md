@@ -47,7 +47,7 @@ and how can you navigate through it.
 
 ### Context Addressing
 
-Find what you are searching <br> without knowing what it is.
+Find what you are searching <br> without knowing what it is <br> or where it is.
 
 ---
 
