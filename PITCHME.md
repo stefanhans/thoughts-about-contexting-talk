@@ -27,7 +27,7 @@ You have defined what you want <br> to represent as a binary hierarchy  <br> and
 
 ---
 
-### A Magic Binary Hierarchy Of Everything? Seriously?
+### A Magic Binary Hierarchy Of Everything?
 
 
 ![global_systems_at_hand](assets/image/laughing.jpeg)
