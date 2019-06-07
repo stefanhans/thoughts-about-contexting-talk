@@ -8,7 +8,7 @@
 
 **The Magic Binary Hierarchy Of Everything**
 
-For every question "how is this represented as a binary hierarchy," 
+For every question <br>"how is this represented as a binary hierarchy," <br> 
 a perfect answer is there.
 
 ---
