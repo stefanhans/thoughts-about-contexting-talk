@@ -34,7 +34,7 @@ You have defined <br> what you want to represent as a binary hierarchy  <br> and
 - describe the rest formally and create functions for it
     - dictionaries, tags, categories, ...
     
-Think about hash functions with meaningful structure.
+Think about hash functions in comparison.
 
 ---
 
@@ -63,15 +63,15 @@ Find what the hash of what you are searching <br> without knowing what it is.
 ![global_systems_at_hand](assets/image/laughing.gif)
 
 
-### Seriously? |
+### Seriously?
 
 ---
 
 ### A Magic Network Of Everything
 
-![global_systems_at_hand](assets/image/astonished.gif) |
+![global_systems_at_hand](assets/image/astonished.gif)
 
-### The Internet |
+### The Internet
 
 ---
 
