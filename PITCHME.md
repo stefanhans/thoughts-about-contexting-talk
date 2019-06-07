@@ -1,4 +1,4 @@
-### Thoughts About Contexting
+### 🤔 Thoughts About Contexting 🤔
 
 ![global_systems_at_hand](assets/image/global_systems_at_hand.jpg)
 
