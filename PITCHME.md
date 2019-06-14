@@ -12,7 +12,7 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-We need this again!<br>First for the developers of decentralized systems,<br>then for all the others.
+We need this again!<br>First for developers of decentralized systems,<br>then for all the others.
 
 ---
 
