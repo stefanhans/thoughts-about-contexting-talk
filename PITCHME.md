@@ -43,8 +43,8 @@ You have defined <br> what you want to have represented <br> and what you want t
 
 Write functions or mappings <br>from anything into a binary hierarchy.
 
-- use standards like GPS, taxonomies 
-- transform from dictionary, list, range 
+- use standards like GPS, taxonomies ...
+- transform from dictionary, list, range ...
 - research a new subject area
 
 ---
