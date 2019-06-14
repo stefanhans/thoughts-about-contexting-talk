@@ -10,8 +10,9 @@
 
 ### The Google Effect
 
-We need this again<br>
-for the developer of decentralized systems
+We need this again!<br>
+First for developer of decentralized systems,<br>
+then for all the others.
 
 ---
 
