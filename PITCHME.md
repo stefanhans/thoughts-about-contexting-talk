@@ -52,7 +52,7 @@ Write functions or mappings <br>from anything into a binary hierarchy.
 
 ### Context Routing
 
-How to combine binary hierarchies dynamically <br>
+How to combine binary hierarchies<br>
 and how can you navigate through it.  
 
 ---
@@ -65,17 +65,17 @@ Find what you are searching <br> without knowing what it is <br> or where it is.
 
 ### Context Indexing
 
-Find what the hash of what you are searching <br> without knowing what it is.
+Find the hash of what you are searching <br> without knowing what it is.
 
 ---
 
 ### Context Learning
 
-Can an AI learn to transform text into binary hierarchies?
+Can an AI learn to transform text<br>into binary hierarchies?
 
 ---
 
-### A Magic Binary Hierarchy Of Everything?
+### Magic Binary Hierarchy Of Everything?
 
 
 ![global_systems_at_hand](assets/image/laughing.gif)
@@ -85,7 +85,7 @@ Can an AI learn to transform text into binary hierarchies?
 
 ---
 
-### A Magic Network Of Everything
+### Magic Network Of Everything
 
 ![global_systems_at_hand](assets/image/astonished.gif)
 
