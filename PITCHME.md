@@ -11,6 +11,7 @@
 ### The Google Effect
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
 <br>
 We need this again!<br>
 First for the developers of decentralized systems,<br>
