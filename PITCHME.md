@@ -45,7 +45,8 @@ Write functions or mappings <br>from anything into a binary hierarchy.
 
 - use standards like GPS, taxonomies ...
 - transform from dictionary, list, range ...
-- discover new ground, a new subject area
+- discover new ground
+- research a new subject area
 
 ---
 
