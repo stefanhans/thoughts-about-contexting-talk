@@ -16,7 +16,7 @@ We need this again!<br>First for the developers <br>of decentralized systems,<br
 
 ---
 
-### A Magic Binary Hierarchy Of Everything
+### The Magic Binary <br>Hierarchy Of Everything
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
