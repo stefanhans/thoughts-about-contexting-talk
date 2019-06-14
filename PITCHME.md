@@ -8,12 +8,10 @@
 
 ---
 
-The Google Effect
+### The Google Effect
 
-We need this again <br> 
-
- <br> 
- for developer of decentralized systems
+We need this again<br>
+for developer of decentralized systems
 
 ---
 
