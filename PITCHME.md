@@ -12,7 +12,7 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-We need this again!<br>First for developers of decentralized systems,<br>then for all the others.
+We need this again!<br>First for the developers <br>of decentralized systems,<br>then for all the others.
 
 ---
 
@@ -20,7 +20,7 @@ We need this again!<br>First for developers of decentralized systems,<br>then fo
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-For every question <br>"how is this represented as a binary hierarchy," <br> a perfect answer is there.
+For every question <br>"how is this represented <br>as a binary hierarchy," <br> a perfect answer is there.
 
 ---
 
