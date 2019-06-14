@@ -11,7 +11,7 @@
 ### The Google Effect
 
 We need this again!<br>
-First for developer of decentralized systems,<br>
+First for the developers of decentralized systems,<br>
 then for all the others.
 
 ---
