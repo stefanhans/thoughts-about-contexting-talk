@@ -4,6 +4,12 @@
 
 ---
 
+Remember 1999 the Google effect...
+
+We need this again for developer of decentralized systems
+
+---
+
 ### The Magic Binary Hierarchy Of Everything
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
