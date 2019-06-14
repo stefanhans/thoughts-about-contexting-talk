@@ -6,7 +6,7 @@
 
 Remember 1999 the Google effect...
 
-We need this again for developer of decentralized systems
+We need this again <br> for developer of decentralized systems
 
 ---
 
