@@ -10,15 +10,15 @@
 
 ### The Google Effect
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 We need this again!<br>First for the developers <br>of decentralized systems,<br>then for all the others.
 
 ---
 
-### The Magic Binary Hierarchy Of Everything
+### A Magic Binary Hierarchy Of Everything
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 For every question <br>"how is this represented <br>as a binary hierarchy," <br> a perfect answer is there.
 
