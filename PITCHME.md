@@ -4,9 +4,16 @@
 
 ---
 
-Remember 1999 the Google effect...
+![back_in_99](assets/image/remember-back-in-1999.jpg)
 
-We need this again <br> for developer of decentralized systems
+---
+
+The Google Effect
+
+We need this again <br> 
+
+ <br> 
+ for developer of decentralized systems
 
 ---
 
