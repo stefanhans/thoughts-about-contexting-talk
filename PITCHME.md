@@ -11,7 +11,7 @@
 ### The Google Effect
 
 We need this again<br>
-for developer of decentralized systems
+for the developer of decentralized systems
 
 ---
 
