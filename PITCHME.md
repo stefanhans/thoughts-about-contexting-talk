@@ -30,7 +30,7 @@ For every question <br>"how is this represented <br>as a binary hierarchy," <br>
 
 - How to navigate the magic hierarchy? |
 
-- How to combine it with IPFS, blockchain, etc. |
+- How to combine it with IPFS, blockchain, etc.? |
 
 - What can we do with it, then? |
 
