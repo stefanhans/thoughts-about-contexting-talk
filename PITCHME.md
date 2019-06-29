@@ -30,7 +30,7 @@ For every question <br>"how is this represented <br>as a binary hierarchy," <br>
 
 - How to navigate the magic hierarchy? |
 
-- How to combine it with IPFS? |
+- How to combine it with DTech? |
 
 - What can we do with it, then? |
 
