@@ -24,11 +24,15 @@ For every question <br>"how is this represented <br>as a binary hierarchy," <br>
 
 ---
 
-### Ask yourself!
+### Think about
 
-1. How to navigate the magic hierarchy?
+- What can we do with it?
 
-1. What can we do with it, then?
+- How to navigate the magic hierarchy? |
+
+- How to combine it with IPFS, blockchain, etc. |
+
+- What can we do with it, then? |
 
 ---
 
